@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-basics-01-starting-project/README.md",
+                "file": "01-basics-01-starting-project/README_Solution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03a53aa2ca3c7f66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-basics-01-starting-project/README_Exercice.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-basics-01-starting-project/README.md",
+                "file": "01-basics-01-starting-project/README_Exercice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-basics-01-starting-project/README.md",
+                "file": "01-basics-01-starting-project/README_Exercice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-basics-01-starting-project/README.md"
+                "file": "01-basics-01-starting-project/README_Exercice.md"
               }
             }
           }
@@ -146,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3b0e168933d5a72",
+  "active": "03a53aa2ca3c7f66",
   "lastOpenFiles": [
+    "01-basics-01-starting-project/README_Solution.md",
+    "01-basics-01-starting-project/README_Exercice.md",
     "02-control-01-starting-project/README.md",
     "02-control-01-starting-project/assets/styles/app.css",
     "02-control-01-starting-project/assets/scripts/vendor.js",
@@ -159,7 +174,6 @@
     "02-control-01-starting-project",
     "basics-01-starting-project/README.md",
     "01-basics-01-starting-project/assets/styles/app.css",
-    "01-basics-01-starting-project/assets/scripts/vendor.js",
-    "01-basics-01-starting-project/README.md"
+    "01-basics-01-starting-project/assets/scripts/vendor.js"
   ]
 }
