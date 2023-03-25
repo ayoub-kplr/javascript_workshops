@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-basics-01-starting-project/README_Solution.md",
+                "file": "Workshops/01-basics-01-starting-project/README_Solution.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-basics-01-starting-project/README_Exercice.md",
+                "file": "Workshops/02-control-01-starting-project/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17884cab6ac965f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Workshops/01-basics-01-starting-project/README_Exercice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c19b7ab0e6cba12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projet.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-basics-01-starting-project/README_Exercice.md",
+                "file": "Projet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-basics-01-starting-project/README_Exercice.md",
+                "file": "Projet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-basics-01-starting-project/README_Exercice.md"
+                "file": "Projet.md"
               }
             }
           }
@@ -159,21 +183,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03a53aa2ca3c7f66",
+  "active": "8c19b7ab0e6cba12",
   "lastOpenFiles": [
-    "01-basics-01-starting-project/README_Solution.md",
-    "01-basics-01-starting-project/README_Exercice.md",
-    "02-control-01-starting-project/README.md",
-    "02-control-01-starting-project/assets/styles/app.css",
-    "02-control-01-starting-project/assets/scripts/vendor.js",
-    "02-control-01-starting-project/assets/scripts/app.js",
-    "02-control-01-starting-project/assets/styles",
-    "02-control-01-starting-project/assets/scripts",
-    "02-control-01-starting-project/index.html",
-    "02-control-01-starting-project/assets",
-    "02-control-01-starting-project",
+    "Workshops/01-basics-01-starting-project/README_Exercice.md",
+    "Projet.md",
+    "Workshops/01-basics-01-starting-project/README_Solution.md",
+    "Exercices - Jour 3.md",
+    "Workshops",
+    "Workshops/02-control-01-starting-project/README.md",
+    "Workshops/02-control-01-starting-project/assets/styles/app.css",
+    "Workshops/02-control-01-starting-project/assets/scripts/vendor.js",
+    "Workshops/02-control-01-starting-project/assets/scripts/app.js",
+    "Workshops/02-control-01-starting-project/assets/styles",
+    "Workshops/02-control-01-starting-project/assets/scripts",
+    "Workshops/02-control-01-starting-project/index.html",
+    "Workshops/02-control-01-starting-project/assets",
+    "Workshops/02-control-01-starting-project",
     "basics-01-starting-project/README.md",
-    "01-basics-01-starting-project/assets/styles/app.css",
-    "01-basics-01-starting-project/assets/scripts/vendor.js"
+    "Workshops/01-basics-01-starting-project/assets/styles/app.css"
   ]
 }
