@@ -8,55 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f3b0e168933d5a72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Workshops/01-basics-01-starting-project/README_Solution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03a53aa2ca3c7f66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Workshops/02-control-01-starting-project/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17884cab6ac965f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Workshops/01-basics-01-starting-project/README_Exercice.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8c19b7ab0e6cba12",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projet.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Projet.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -185,21 +140,26 @@
   },
   "active": "8c19b7ab0e6cba12",
   "lastOpenFiles": [
-    "Workshops/01-basics-01-starting-project/README_Exercice.md",
+    "Projets/Projet.md",
+    "Projets/01-basics-Calculatrice/assets/styles/app.css",
+    "Projets/01-basics-Calculatrice/assets/scripts/vendor.js",
+    "Projets/01-basics-Calculatrice/assets/styles",
+    "Projets/01-basics-Calculatrice/assets/scripts",
+    "Projets/01-basics-Calculatrice/README_Exercice.md",
+    "Projets/01-basics-Calculatrice/README_Solution.md",
+    "Projets/01-basics-Calculatrice/index.html",
+    "Projets/01-basics-Calculatrice/assets",
+    "Projets/01-basics-Calculatrice",
+    "Projets",
+    "Workshops/02-control-01-starting-project/README.md",
     "Projet.md",
+    "Workshops/01-basics-Calculatrice/assets/styles/app.css",
+    "Workshops/01-basics-Calculatrice/assets/scripts/vendor.js",
+    "Workshops/01-basics-Calculatrice/README_Solution.md",
+    "Workshops/01-basics-Calculatrice/README_Exercice.md",
+    "Workshops/01-basics-01-starting-project/README_Exercice.md",
     "Workshops/01-basics-01-starting-project/README_Solution.md",
     "Exercices - Jour 3.md",
-    "Workshops",
-    "Workshops/02-control-01-starting-project/README.md",
-    "Workshops/02-control-01-starting-project/assets/styles/app.css",
-    "Workshops/02-control-01-starting-project/assets/scripts/vendor.js",
-    "Workshops/02-control-01-starting-project/assets/scripts/app.js",
-    "Workshops/02-control-01-starting-project/assets/styles",
-    "Workshops/02-control-01-starting-project/assets/scripts",
-    "Workshops/02-control-01-starting-project/index.html",
-    "Workshops/02-control-01-starting-project/assets",
-    "Workshops/02-control-01-starting-project",
-    "basics-01-starting-project/README.md",
-    "Workshops/01-basics-01-starting-project/assets/styles/app.css"
+    "basics-01-starting-project/README.md"
   ]
 }
