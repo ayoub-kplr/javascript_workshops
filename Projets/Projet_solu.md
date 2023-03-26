@@ -2,13 +2,11 @@
 
 Tout d'abord, créez un nouveau dossier pour votre projet et initialisez-le avec npm en utilisant la commande suivante :
 
-bashCopy code
 
 `npm init -y`
 
 Ensuite, installez les dépendances Express.js et nodemon en utilisant les commandes suivantes :
 
-bashCopy code
 
 `npm install express npm install nodemon --save-dev`
 
@@ -16,7 +14,6 @@ bashCopy code
 
 Créez un nouveau fichier `index.js` et ajoutez le code suivant pour créer un serveur Express :
 
-javascriptCopy code
 
 `const express = require('express'); const app = express();  // Route principale app.get('/', (req, res) => {   res.send('API RESTful avec Node.js et Express.js'); });  // Démarrer le serveur app.listen(3000, () => {   console.log('Serveur démarré sur le port 3000'); });`
 
@@ -28,7 +25,6 @@ Maintenant que nous avons créé notre serveur, nous allons ajouter des routes p
 
 Ajoutez un nouveau fichier `routes.js` et ajoutez les routes suivantes :
 
-javascriptCopy code
 
 ``const express = require('express'); const router = express.Router();  // Route pour obtenir tous les éléments router.get('/elements', (req, res) => {   res.send('Obtenir tous les éléments'); });  // Route pour obtenir un élément spécifique router.get('/elements/:id', (req, res) => {   res.send(`Obtenir l'élément avec l'ID ${req.params.id}`); });  // Route pour créer un nouvel élément router.post('/elements', (req, res) => {   res.send('Créer un nouvel élément'); });  // Route pour mettre à jour un élément spécifique router.put('/elements/:id', (req, res) => {   res.send(`Mettre à jour l'élément avec l'ID ${req.params.id}`); });  // Route pour supprimer un élément spécifique router.delete('/elements/:id', (req, res) => {   res.send(`Supprimer l'élément avec l'ID ${req.params.id}`); });  module.exports = router;``
 
@@ -40,7 +36,6 @@ Maintenant que nous avons créé les routes, nous allons les utiliser dans notre
 
 Ajoutez les lignes suivantes dans le fichier `index.js` :
 
-javascriptCopy code
 
 `const routes = require('./routes');  app.use('/', routes);`
 
