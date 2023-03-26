@@ -11,8 +11,12 @@
             "id": "8c19b7ab0e6cba12",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Projets/Projet_solu.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projets/Projet_solu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projets/Projet_solu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projets/Projet_solu.md"
+              }
             }
           }
         ]
@@ -140,6 +148,7 @@
   },
   "active": "8c19b7ab0e6cba12",
   "lastOpenFiles": [
+    "Projets/Projet_solu.md",
     "Projets/Projet.md",
     "Projets/01-basics-Calculatrice/assets/styles/app.css",
     "Projets/01-basics-Calculatrice/assets/scripts/vendor.js",
