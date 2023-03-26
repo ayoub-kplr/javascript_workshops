@@ -11,12 +11,8 @@
             "id": "8c19b7ab0e6cba12",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projets/Projet_solu.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projets/Projet_solu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projets/Projet_solu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Projets/Projet_solu.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,22 +140,33 @@
   },
   "active": "8c19b7ab0e6cba12",
   "lastOpenFiles": [
+    "Projets/01-Day-01/08-Tableaux",
+    "Projets/01-Day-01/07-styler_avec_css",
+    "Projets/01-Day-01/05-ajouter_images",
+    "Projets/01-Day-01/04-creer_liens",
+    "Projets/01-Day-01/03-manipuler_texte",
+    "Projets/01-Day-01/02-structure_page_web",
+    "Projets/01-Day-01/01-maPremierePage",
+    "Projets/02-Day-02/06-calculatrice/assets/styles/app.css",
+    "Projets/02-Day-02/06-calculatrice/assets/scripts/vendor.js",
+    "Projets/02-Day-02/06-calculatrice/assets/styles",
+    "Projets/02-Day-02/06-calculatrice/assets/scripts",
+    "Projets/02-Day-02/06-calculatrice/README_Solution.md",
+    "Projets/02-Day-02/06-calculatrice/README_Exercice.md",
     "Projets/Projet_solu.md",
+    "Projets/03-Day-03/Projet_solu.md",
+    "Projets/03-Day-03/Projet.md",
+    "Projets/02-Day-02/01-calculatrice/README_Solution.md",
+    "Projets/02-Day-02/01-calculatrice/README_Exercice.md",
+    "Projets/01-calculatrice/README_Exercice.md",
+    "Projets/01-calculatrice/README_Solution.md",
+    "Projets/01-Calculatrice/README_Solution.md",
+    "Projets/01-Calculatrice/README_Exercice.md",
     "Projets/Projet.md",
-    "Projets/01-basics-Calculatrice/assets/styles/app.css",
-    "Projets/01-basics-Calculatrice/assets/scripts/vendor.js",
-    "Projets/01-basics-Calculatrice/assets/styles",
-    "Projets/01-basics-Calculatrice/assets/scripts",
     "Projets/01-basics-Calculatrice/README_Exercice.md",
     "Projets/01-basics-Calculatrice/README_Solution.md",
-    "Projets/01-basics-Calculatrice/index.html",
-    "Projets/01-basics-Calculatrice/assets",
-    "Projets/01-basics-Calculatrice",
-    "Projets",
     "Workshops/02-control-01-starting-project/README.md",
     "Projet.md",
-    "Workshops/01-basics-Calculatrice/assets/styles/app.css",
-    "Workshops/01-basics-Calculatrice/assets/scripts/vendor.js",
     "Workshops/01-basics-Calculatrice/README_Solution.md",
     "Workshops/01-basics-Calculatrice/README_Exercice.md",
     "Workshops/01-basics-01-starting-project/README_Exercice.md",
